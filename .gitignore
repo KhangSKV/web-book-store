@@ -1,0 +1,14 @@
+# Môi trường ảo
+venv/
+.venv/
+
+# Tệp Python không cần thiết
+*.pyc
+__pycache__/
+
+# File cấu hình IDE
+.vscode/
+*.idea/
+
+# Thông tin nhạy cảm
+.env
